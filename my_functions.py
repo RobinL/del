@@ -1,6 +1,3 @@
-def amazing():
+def add_one(x: int) -> int:
 
-
-
-
-    a =   1 
+    return x + 1
